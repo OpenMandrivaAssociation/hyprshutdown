@@ -13,6 +13,7 @@ BuildRequires:	pkgconfig(pixman-1)
 BuildRequires:	pkgconfig(libdrm)
 BuildRequires:	glaze-devel
 BuildRequires:  pkgconfig(aquamarine)
+BuildRequires:  pkgconfig(hyprgraphics)
 
 BuildSystem:	cmake
 

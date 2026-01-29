@@ -11,6 +11,7 @@ BuildRequires:  pkgconfig(hyprtoolkit)
 BuildRequires:	pkgconfig(hyprutils) >= 0.11.0
 BuildRequires:	pkgconfig(pixman-1)
 BuildRequires:	pkgconfig(libdrm)
+BuildRequires:	glaze-devel
 BuildSystem:	cmake
 
 %description

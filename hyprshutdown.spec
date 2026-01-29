@@ -14,6 +14,7 @@ BuildRequires:	pkgconfig(libdrm)
 BuildRequires:	glaze-devel
 BuildRequires:  pkgconfig(aquamarine)
 BuildRequires:  pkgconfig(hyprgraphics)
+BuildRequires:	pkgconfig(cairo)
 
 BuildSystem:	cmake
 

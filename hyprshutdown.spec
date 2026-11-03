@@ -1,6 +1,6 @@
 Name:		hyprshutdown
-Version:	0.1.1
-Release:	3
+Version:	0.1.2
+Release:	1
 Source0:	https://github.com/hyprwm/hyprshutdown/archive/v%{version}/%{name}-%{version}.tar.gz
 Summary:	A graceful shutdown utility for Hyprland
 URL:		https://github.com/hyprwm/hyprshutdown
